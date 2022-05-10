@@ -4,7 +4,7 @@
 
 Contained within is a functional infrastructure for the ceros-ski nodejs game. We believe that beyound writing infrastructure codes is doing so in an optimal way and hence, the purpose for this task. What we'd like you to do is restructure the `infrastructure/environment` and `infrastructure/repositories` to follow terraform code best practices.
 
-## The Task
+## Tasks
 
 1. Fork this repo
 
