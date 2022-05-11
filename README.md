@@ -38,4 +38,4 @@ You will be graded on the following criteria.
 
 ## Bonus
 
-Suprise us with something different, new and interesting :)
+Surprise us with something different, new and interesting :)
