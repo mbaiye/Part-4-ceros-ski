@@ -12,7 +12,7 @@ Contained within is a functional infrastructure for the ceros-ski nodejs game. W
 
 3. Create two files named `${firstname}_${lastname}_optimization.md` and `${firstname}_${lastname}_suggestions.md`. `${firstname}_${lastname}_optimization.md` will be used to document all optimization changes you made. `${firstname}_${lastname}_suggestions.md` will be used to document any techdebt decisions you made while working on this project. 
 
-4. Optimize the directories to suit terraform code best practise (near/or production-grade)
+4. Optimize the directories to suit terraform code best practises
 
 
 ## Acceptance Criteria
