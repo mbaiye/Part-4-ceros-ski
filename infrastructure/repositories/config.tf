@@ -1,4 +1,4 @@
-provider "aws" { 
+provider "aws" {
 }
 
 terraform {
